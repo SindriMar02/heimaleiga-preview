@@ -453,3 +453,7 @@ a, button, summary, select { touch-action: manipulation; -webkit-tap-highlight-c
 @media (max-width: 759px) { .pick { display: none; } }
 @media (max-width: 520px) { .hdr-r .chip { padding: 0 10px; } .hdr-r .chip[hreflang] { display: none; } }
 .hd-box.-display { font-size: min(var(--h-display), calc((100vw - 2 * var(--margin)) / 8.4)); }
+
+.bkd-err { margin: -10px 0 18px; color: #b3261e; font-size: 15px; min-height: 0; }
+.bkd-err:empty { display: none; }
+.bkd-b select[aria-invalid="true"] { border-color: #b3261e; box-shadow: 0 0 0 1px #b3261e; }

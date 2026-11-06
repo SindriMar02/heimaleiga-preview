@@ -136,7 +136,10 @@
   const showForm = () => { hand.hidden = true; form.hidden = false; };
   function handoff(s) {
     const slug = sel.value;
-    if (!slug) { $('.bk-note', bkRoot).textContent = IS ? 'Veldu hús fyrst.' : 'Choose a building first.'; sel.focus(); return; }
+    if (!slug) {   /* iPhone: the note under the button sits behind Safari's toolbar, so the message goes under the field itself */
+      const er = $('[data-bkd-err]'); er.textContent = IS ? 'Veldu hús fyrst.' : 'Choose a building first.'; sel.setAttribute('aria-invalid', 'true');
+      $('[data-bkd-panel]').scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' }); sel.focus({ preventScroll: true }); return;
+    }
     const url = `${cfg.hosts[slug]}/en?checkIn=${s.start}&checkOut=${s.end}&minOccupancy=${s.guests}`;
     $('[data-handoff-h]').textContent = cfg.names[slug];
     $('[data-handoff-sum]').textContent = IS ? `${s.label}, ${s.nights} ${s.nights === 1 ? 'nótt' : 'nætur'}, ${s.guests} ${s.guests === 1 ? 'gestur' : 'gestir'}.` : `${s.label}, ${s.nights} night${s.nights === 1 ? '' : 's'}, ${s.guests} guest${s.guests === 1 ? '' : 's'}.`;
@@ -144,7 +147,7 @@
     form.hidden = true; hand.hidden = false; hand.focus({ preventScroll: true });
   }
   $('[data-handoff-back]').addEventListener('click', () => { showForm(); $('.bk-action', bkRoot).focus(); });
-  sel.addEventListener('change', () => { $('.bk-note', bkRoot).textContent = ''; try { sessionStorage.setItem('hl-b', sel.value); } catch (_) {} });
+  sel.addEventListener('change', () => { $('.bk-note', bkRoot).textContent = ''; $('[data-bkd-err]').textContent = ''; sel.removeAttribute('aria-invalid'); try { sessionStorage.setItem('hl-b', sel.value); } catch (_) {} });
   $$('[data-book]').forEach((b) => b.addEventListener('click', (e) => {
     if (menu && menu.open) menu.close();
     let rem = ''; try { rem = sessionStorage.getItem('hl-b') || ''; } catch (_) {}
