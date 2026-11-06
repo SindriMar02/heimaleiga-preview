@@ -1,0 +1,3601 @@
+[
+ {
+  "id": "swan",
+  "slug": "swan-house",
+  "name": "Swan House",
+  "area": "downtown",
+  "areaName": [
+   "Downtown",
+   "Miðborgin"
+  ],
+  "lede": {
+   "en": "Studios on Lindargata, a short walk from the old harbour.",
+   "is": "Stúdíóíbúðir við Lindargötu, stutt frá gömlu höfninni."
+  },
+  "source": "https://heimaleiga.is/swanhouse/",
+  "email": "swanhouse@heimaleiga.is",
+  "phone": "+354 5391419",
+  "address": "Lindargata 34, 101 Reykjavík",
+  "host": "https://swanhouse.heimaleiga.is",
+  "intro": [
+   "Swan House is a self-service apartments property located near Reykjavik harbor",
+   "Enjoy your stay in these newly renovated studio apartments, with free WiFi and flat-screen smart TV, plus a kitchenette with a refrigerator and a stovetop. The studio apartments will make you feel like being home but in the heart of Reykjavik.",
+   "Please note that this is a self check-in property."
+  ],
+  "find": {
+   "kef": 53,
+   "bsi": 7,
+   "stop": "Airport Transfer Bus stop nr. 14, Skúlagata"
+  },
+  "nearby": [
+   "In the heart",
+   "of Reykjavik",
+   "Grocery store —",
+   "2 min. walk",
+   "Hlemmur Mathöll, restaurants and bars",
+   "— 12 min. walk",
+   "Rainbow Street —",
+   "6 min. walk",
+   "Public transportation, Þjóðleikhúsið bus stop —",
+   "4 min. walk"
+  ],
+  "hero": {
+   "base": "assets/img/swan-house/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    4200,
+    2800
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Basement Studios",
+    "sleeps": 4,
+    "beds": "Queen bed, Sofa bed",
+    "href": "https://swanhouse.heimaleiga.is/properties/6452d0eebc4eab004bc8d98d",
+    "img": {
+     "base": "assets/img/swan-house/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1050,
+      700
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Deluxe Studios",
+    "sleeps": 4,
+    "beds": "Queen bed, Sofa bed",
+    "href": "https://swanhouse.heimaleiga.is/properties/6452ceb0c666df005167df97",
+    "img": {
+     "base": "assets/img/swan-house/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1050,
+      700
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Double Studios",
+    "sleeps": 2,
+    "beds": "Double bed",
+    "href": "https://swanhouse.heimaleiga.is/properties/644a7a2bcd2fe80038ab0de2",
+    "img": {
+     "base": "assets/img/swan-house/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Superior Studios",
+    "sleeps": 4,
+    "beds": "Queen bed, Sofa bed",
+    "href": "https://swanhouse.heimaleiga.is/properties/6452d290b48278004405fcc6",
+    "img": {
+     "base": "assets/img/swan-house/r3",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1050,
+      700
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/swan-house/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/swan-house/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/swan-house/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/swan-house/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/swan-house/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/swan-house/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/swan-house/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sif",
+  "slug": "sif-apartments",
+  "name": "Sif Apartments",
+  "area": "tun",
+  "areaName": [
+   "Tún and Holt",
+   "Tún og Holt"
+  ],
+  "lede": {
+   "en": "Serviced apartments at Bríetartún, two minutes from the airport bus stop.",
+   "is": "Þjónustuíbúðir við Bríetartún, tvær mínútur frá stoppistöð flugrútunnar."
+  },
+  "source": "https://heimaleiga.is/sif/",
+  "email": "sif@heimaleiga.is",
+  "phone": "+354 449 4909",
+  "address": "Bríetartún 9-11, 105 Reykjavík",
+  "host": "https://sif.heimaleiga.is",
+  "intro": [
+   "Modern, minimalist apartments in downtown Reykjavík",
+   "SIF is a modern complex of minimalist designed apartments in Central Reykjavik. A perfect location to explore the local sightseeing, and a stone’s throw away from the best restaurants and bars of Reykjavik.",
+   "Please note that this is a self check-in property."
+  ],
+  "find": {
+   "kef": 45,
+   "bsi": 7,
+   "stop": "Airport Transfer Bus stop - nr. 12, Höfðatorg"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/sif-apartments/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    2560,
+    1707
+   ]
+  },
+  "rooms": [
+   {
+    "name": "1 bedroom apartments",
+    "sleeps": 4,
+    "beds": "2 single beds or 1 queen bed+ sleeping couch (double), Infant bed available upon request",
+    "href": "https://sif.heimaleiga.is/properties/5e412b6970fa6a0026298b7c",
+    "img": {
+     "base": "assets/img/sif-apartments/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "2 bedroom apartments",
+    "sleeps": 6,
+    "beds": "1 king size bed+2 single beds + sleeping couch (double), infant bed available upon request",
+    "href": "https://sif.heimaleiga.is/properties/5e41334ebfb5830026aeb061",
+    "img": {
+     "base": "assets/img/sif-apartments/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1358,
+      908
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "2 bedroom apartments with 2WC",
+    "sleeps": 6,
+    "beds": "1 king size bed + 2 single beds + sleeping couch (double), Infant bed available upon request, Additional en suite bathroom",
+    "href": "https://sif.heimaleiga.is/properties/5e41334ebfb5830026aeb061",
+    "img": {
+     "base": "assets/img/sif-apartments/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "2 bedroom Suite with 2WC",
+    "sleeps": 6,
+    "beds": "1 king size bed + 2 single beds + sleeping couch (double), Infant bed available upon request, Additional en suite bathroom",
+    "href": "https://sif.heimaleiga.is/properties/6439527ec0f3b4003fd104ff",
+    "img": {
+     "base": "assets/img/sif-apartments/r3",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1300,
+      867
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "2 bedroom Superior with 2WC",
+    "sleeps": 6,
+    "beds": "1 king size bed + 2 single beds + sleeping couch (double), Infant bed available upon request, Additional en suite bathroom",
+    "href": "https://sif.heimaleiga.is/properties/6266693e3d70780033a04c87",
+    "img": {
+     "base": "assets/img/sif-apartments/r4",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/sif-apartments/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     500,
+     400
+    ]
+   },
+   {
+    "base": "assets/img/sif-apartments/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     500,
+     400
+    ]
+   },
+   {
+    "base": "assets/img/sif-apartments/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     500,
+     400
+    ]
+   },
+   {
+    "base": "assets/img/sif-apartments/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     500,
+     400
+    ]
+   },
+   {
+    "base": "assets/img/sif-apartments/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     500,
+     400
+    ]
+   },
+   {
+    "base": "assets/img/sif-apartments/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     500,
+     400
+    ]
+   },
+   {
+    "base": "assets/img/sif-apartments/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2560,
+     1706
+    ]
+   },
+   {
+    "base": "assets/img/sif-apartments/g7",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2560,
+     1707
+    ]
+   }
+  ]
+ },
+ {
+  "id": "svala",
+  "slug": "svala-apartments",
+  "name": "Svala Apartments",
+  "area": "downtown",
+  "areaName": [
+   "Downtown",
+   "Miðborgin"
+  ],
+  "lede": {
+   "en": "Studios and a penthouse on Laugavegur, the main street.",
+   "is": "Stúdíóíbúðir og þakíbúð við Laugaveg."
+  },
+  "source": "https://heimaleiga.is/svalaapartments/",
+  "email": "svala@heimaleiga.is",
+  "phone": "+354 449 4914",
+  "address": "Laugavegur 71, 101 Reykjavík",
+  "host": "https://svala.heimaleiga.is",
+  "intro": [],
+  "find": {
+   "kef": 47,
+   "bsi": 4,
+   "stop": "Airport Transfer Bus stop №13"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/svala-apartments/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    3000,
+    2000
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Studio for 2",
+    "sleeps": 2,
+    "beds": "2 Single beds",
+    "href": "https://svala.heimaleiga.is/properties/641c3543d99797002a756dc3",
+    "img": {
+     "base": "assets/img/svala-apartments/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Studio for 4",
+    "sleeps": 4,
+    "beds": "2 Double beds",
+    "href": "https://svala.heimaleiga.is/properties/641c37f3d99797002a75866d",
+    "img": {
+     "base": "assets/img/svala-apartments/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "1BR Penthouse",
+    "sleeps": 4,
+    "beds": "1 Double bed, 2 Single beds",
+    "href": "https://svala.heimaleiga.is/properties/641c3ea7bcfe790035fdb54a",
+    "img": {
+     "base": "assets/img/svala-apartments/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/svala-apartments/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/svala-apartments/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/svala-apartments/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/svala-apartments/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/svala-apartments/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/svala-apartments/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/svala-apartments/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/svala-apartments/g7",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mani",
+  "slug": "mani-apartments",
+  "name": "Máni Apartments",
+  "area": "downtown",
+  "areaName": [
+   "Downtown",
+   "Miðborgin"
+  ],
+  "lede": {
+   "en": "Apartments on Laugavegur 18, in the middle of the city.",
+   "is": "Íbúðir á Laugavegi 18, í miðri borginni."
+  },
+  "source": "https://heimaleiga.is/maniapartments/",
+  "email": "heimaleiga@heimaleiga.is",
+  "phone": "+354 449 4911",
+  "address": "Laugavegur 18, 101 Reykjavík",
+  "host": "https://maniapartments.heimaleiga.is",
+  "intro": [
+   "Máni Apartments is an excellent option whilst traveling in Iceland and can suit different sizes of groups.",
+   "The apartments offer a fully equipped kitchen, spacious in-room dining area and give our guests a self-sufficient Reykjavik experience.",
+   "Located in the heart of downtown, the apartments are surrounded by lively bars, restaurants, and nightly live music until 11pm from the bar in our building. There may be some nighttime noise, but it’s all part of Reykjavik’s vibrant atmosphere—perfect for those looking to join in the fun!",
+   "Please note that this is a self check-in property."
+  ],
+  "find": {
+   "kef": 48,
+   "bsi": 5,
+   "stop": "Airport Transfer Bus stop nr. 14, Skúlagata"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/mani-apartments/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    4200,
+    2800
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Studio apartment",
+    "sleeps": 2,
+    "beds": "1 double bed or 2 single beds",
+    "href": "https://maniapartments.heimaleiga.is/properties/64ef92f9e3ebb30040b5daae",
+    "img": {
+     "base": "assets/img/mani-apartments/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1050,
+      700
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Family apartment",
+    "sleeps": 4,
+    "beds": "1 Double bed or 2 single beds",
+    "href": "https://maniapartments.heimaleiga.is/properties/64ef999211627f004189a0a1",
+    "img": {
+     "base": "assets/img/mani-apartments/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Two bedroom apartment",
+    "sleeps": 5,
+    "beds": "4 Double beds",
+    "href": "https://maniapartments.heimaleiga.is/properties/64efa0c343a6c600496fc799",
+    "img": {
+     "base": "assets/img/mani-apartments/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1030,
+      687
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Three Bedroom apartment",
+    "sleeps": 7,
+    "beds": "4 double bed, 2 Bathroom",
+    "href": "https://maniapartments.heimaleiga.is/properties/64efa2dbe813c80041d9b13a",
+    "img": {
+     "base": "assets/img/mani-apartments/r3",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1030,
+      687
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Budget Studio apartment",
+    "sleeps": 2,
+    "beds": "Double bed or 2 single beds",
+    "href": "https://maniapartments.heimaleiga.is/properties/64efa71b43a6c60049708e1a",
+    "img": {
+     "base": "assets/img/mani-apartments/r4",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1030,
+      687
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/mani-apartments/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1050,
+     700
+    ]
+   },
+   {
+    "base": "assets/img/mani-apartments/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1050,
+     700
+    ]
+   },
+   {
+    "base": "assets/img/mani-apartments/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1050,
+     700
+    ]
+   },
+   {
+    "base": "assets/img/mani-apartments/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1050,
+     700
+    ]
+   },
+   {
+    "base": "assets/img/mani-apartments/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1050,
+     700
+    ]
+   },
+   {
+    "base": "assets/img/mani-apartments/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1050,
+     700
+    ]
+   },
+   {
+    "base": "assets/img/mani-apartments/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/mani-apartments/g7",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1050,
+     700
+    ]
+   }
+  ]
+ },
+ {
+  "id": "midtown",
+  "slug": "midtown-reykjavik",
+  "name": "Midtown Reykjavik",
+  "area": "downtown",
+  "areaName": [
+   "Downtown",
+   "Miðborgin"
+  ],
+  "lede": {
+   "en": "Rooms on Vegamótastígur, between Laugavegur and Skólavörðustígur.",
+   "is": "Herbergi við Vegamótastíg, milli Laugavegar og Skólavörðustígs."
+  },
+  "source": "https://heimaleiga.is/midtownhotel/",
+  "email": "midtown@heimaleiga.is",
+  "phone": "+354 449 4910",
+  "address": "Vegamótastígur 9, 101 Reykjavik",
+  "host": "https://midtownhotel.heimaleiga.is",
+  "intro": [
+   "Midtown Reykjavik is a self check-in property offering a variety of modern and bright hotel rooms.",
+   "All of our guests can experience a comfortable stay in the heart of Reykjavik. Choose from a selection of stylish standard double / twin rooms or fabulous suites on the top floor to complement your trip to Iceland.",
+   "Located in the heart of downtown, the hotel is surrounded by lively bars, restaurants, and nightly live music until 11pm from the bar in our building. There may be some nighttime noise, but it’s all part of Reykjavik’s vibrant atmosphere—perfect for those looking to join in the fun!",
+   "Please note that this is a self check-in property."
+  ],
+  "find": {
+   "kef": 48,
+   "bsi": 5,
+   "stop": "Airport Transfer Bus stop nr. 14, Skúlagata"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/midtown-reykjavik/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    6000,
+    4000
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Small Double Room",
+    "sleeps": 2,
+    "beds": "1 Double bed or 2 single beds",
+    "href": "https://midtownhotel.heimaleiga.is/properties/64eeeef397e44800370b188d",
+    "img": {
+     "base": "assets/img/midtown-reykjavik/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2100,
+      1400
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Standard Double or twin room",
+    "sleeps": 2,
+    "beds": "1 Double bed or 2 single beds",
+    "href": "https://midtownhotel.heimaleiga.is/properties/64ef233f6a39150041f81e4f",
+    "img": {
+     "base": "assets/img/midtown-reykjavik/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1500,
+      1000
+     ],
+     "tone": "paper"
+    }
+   },
+   {
+    "name": "Triple room",
+    "sleeps": 3,
+    "beds": "3 single beds or 1 double bed and 1 single bed",
+    "href": "https://midtownhotel.heimaleiga.is/properties/64ef5e20cf6def0041f90e75",
+    "img": {
+     "base": "assets/img/midtown-reykjavik/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1500,
+      1000
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "King Suite with balcony",
+    "sleeps": 2,
+    "beds": "1 Double bed",
+    "href": "https://midtownhotel.heimaleiga.is/properties/64ef649d89a2ab00389cd4b1",
+    "img": {
+     "base": "assets/img/midtown-reykjavik/r3",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "paper"
+    }
+   },
+   {
+    "name": "Double room with balcony",
+    "sleeps": 2,
+    "beds": "2 single beds or 1 Double bed",
+    "href": "https://midtownhotel.heimaleiga.is/properties/64ef5146508b65005543df23",
+    "img": {
+     "base": "assets/img/midtown-reykjavik/r4",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1500,
+      1000
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Quadruple room",
+    "sleeps": 4,
+    "beds": "2 single beds and one double bed",
+    "href": "https://midtownhotel.heimaleiga.is/properties/64ef60b29267f700492c1b5b",
+    "img": {
+     "base": "assets/img/midtown-reykjavik/r5",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1500,
+      1000
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/midtown-reykjavik/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1500,
+     1000
+    ]
+   },
+   {
+    "base": "assets/img/midtown-reykjavik/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1500,
+     1000
+    ]
+   },
+   {
+    "base": "assets/img/midtown-reykjavik/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1500,
+     1000
+    ]
+   },
+   {
+    "base": "assets/img/midtown-reykjavik/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1500,
+     1000
+    ]
+   },
+   {
+    "base": "assets/img/midtown-reykjavik/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1050,
+     700
+    ]
+   },
+   {
+    "base": "assets/img/midtown-reykjavik/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1342,
+     854
+    ]
+   },
+   {
+    "base": "assets/img/midtown-reykjavik/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1500,
+     1000
+    ]
+   },
+   {
+    "base": "assets/img/midtown-reykjavik/g7",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     6000,
+     4000
+    ]
+   }
+  ]
+ },
+ {
+  "id": "eir",
+  "slug": "eir-apartments",
+  "name": "EIR Apartments",
+  "area": "downtown",
+  "areaName": [
+   "Downtown",
+   "Miðborgin"
+  ],
+  "lede": {
+   "en": "The newest building: studios to four-bedroom apartments for ten.",
+   "is": "Nýjasta húsið: stúdíó upp í fjögurra herbergja íbúðir fyrir tíu."
+  },
+  "source": "https://heimaleiga.is/eirapartments/",
+  "email": "eir@heimaleiga.is",
+  "phone": "+354 449 4918",
+  "address": "Skúlagata 30, 101 Reykjavík",
+  "host": null,
+  "intro": [
+   "Experience the best of Reykjavík at EIR Complex",
+   "EIR is the newest addition to Heimaleiga’s collection, offering a calm and contemporary retreat just a short distance from Reykjavík’s vibrant center",
+   "Located beside the ocean, our modern apartments offer a stylish and peaceful retreat in one of the city’s most desirable neighborhoods. Just steps from Reykjavik’s iconic landmarks, each apartment is designed to combine comfort, functionality, and a touch of luxury for every traveller."
+  ],
+  "find": {
+   "kef": null,
+   "bsi": null,
+   "stop": "Laugardalshöll Bus stop"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/eir-apartments/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    4682,
+    3123
+   ]
+  },
+  "rooms": [
+   {
+    "name": "EIR Studio for 4",
+    "sleeps": 2,
+    "beds": "1 double bed",
+    "href": null,
+    "img": {
+     "base": "assets/img/eir-apartments/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      4682,
+      3122
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "EIR One bedroom for 4",
+    "sleeps": 4,
+    "beds": "1 Double bed and Sofa bed",
+    "href": null,
+    "img": {
+     "base": "assets/img/eir-apartments/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      4681,
+      3122
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "EIR Two Bedroom Apartment for 6",
+    "sleeps": 6,
+    "beds": "2 Double beds and Sofa bed",
+    "href": null,
+    "img": {
+     "base": "assets/img/eir-apartments/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "EIR Three Bedroom Apartment for 8",
+    "sleeps": 8,
+    "beds": "3 Double beds and Sofa bed",
+    "href": null,
+    "img": {
+     "base": "assets/img/eir-apartments/r3",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "EIR Two Bedroom Penthouse Apartments",
+    "sleeps": 6,
+    "beds": "2 Double beds and Sofa bed",
+    "href": null,
+    "img": {
+     "base": "assets/img/eir-apartments/r4",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1708
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "EIR Four Bedroom Apartment for 10",
+    "sleeps": 10,
+    "beds": "4 Double beds and Sofa bed",
+    "href": null,
+    "img": {
+     "base": "assets/img/eir-apartments/r5",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": []
+ },
+ {
+  "id": "ice",
+  "slug": "ice-apartments",
+  "name": "Ice Apartments",
+  "area": "downtown",
+  "areaName": [
+   "Downtown",
+   "Miðborgin"
+  ],
+  "lede": {
+   "en": "Apartments at Laugavegur 1, where the main street begins.",
+   "is": "Íbúðir á Laugavegi 1, þar sem Laugavegurinn byrjar."
+  },
+  "source": "https://heimaleiga.is/iceapartments/",
+  "email": "heimaleiga@heimaleiga.is",
+  "phone": "+354 449 4902",
+  "address": "Laugavegur 1, 101 Reykjavík",
+  "host": "https://ice.heimaleiga.is",
+  "intro": [
+   "Bright and comfortable apartments in a perfect location",
+   "The Ice Apartments are elegantly furnished, bright and spacious. Perfect for couples or families. Close proximity to shopping, museums, restaurants, grocery stores, car park and transportation. Each apartment includes a sofa bed, fully equipped modern kitchen, dining area, free wi-fi and bathroom with shower. Sleeping accommodations for up to four people. Some of the apartments come with a balcony, accessible from the bedroom.",
+   "Please note that this is a self check-in property."
+  ],
+  "find": {
+   "kef": 51,
+   "bsi": 6,
+   "stop": "Public Bus stop - №6 – Safnahúsið"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/ice-apartments/hero",
+   "tone": "paper",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    4200,
+    2800
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Standard Apartment",
+    "sleeps": 4,
+    "beds": "Double bed, Sofa bed",
+    "href": "https://ice.heimaleiga.is/properties/6076e8dc693970002fefed29",
+    "img": {
+     "base": "assets/img/ice-apartments/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1050,
+      700
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Superior Apartment",
+    "sleeps": 4,
+    "beds": "Double bed, Sofa bed",
+    "href": "https://ice.heimaleiga.is/properties/6065b6dde33ee10030ae1695",
+    "img": {
+     "base": "assets/img/ice-apartments/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1050,
+      700
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Penthouse Apartments",
+    "sleeps": 4,
+    "beds": "Double bed, Sofa bed",
+    "href": "https://ice.heimaleiga.is/properties/60634f915301ad002f86955b",
+    "img": {
+     "base": "assets/img/ice-apartments/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1050,
+      700
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/ice-apartments/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/ice-apartments/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/ice-apartments/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/ice-apartments/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/ice-apartments/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/ice-apartments/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/ice-apartments/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/ice-apartments/g7",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   }
+  ]
+ },
+ {
+  "id": "46heima",
+  "slug": "46heima",
+  "name": "46heima Boutique Apartments",
+  "area": "downtown",
+  "areaName": [
+   "Downtown",
+   "Miðborgin"
+  ],
+  "lede": {
+   "en": "Boutique apartments on Laugavegur 46.",
+   "is": "Íbúðir á Laugavegi 46."
+  },
+  "source": "https://heimaleiga.is/46heima/",
+  "email": "heimaleiga@heimaleiga.is",
+  "phone": "+354 449 4900",
+  "address": "Laugavegur 46, 101 Reykjavík",
+  "host": "https://46heima.heimaleiga.is",
+  "intro": [
+   "Premium Apartments in Downtown Reykjavik",
+   "Experience ultimate comfort in our premium apartments, thoughtfully designed to make you feel right at home, even when you’re away. Perfect for couples and families, our studios accommodate 2-5 guests and come highly rated by our satisfied visitors. Enjoy the convenience of modern amenities, including free Wi-Fi, a fully-equipped kitchenette with a dishwasher, flat-screen TV, and a private bathroom with a shower. We also provide a fridge, stovetop, toaster, kettle, and coffee machine for your culinary needs. Plus, laundry facilities are available on-site for your convenience. Your perfect vacation home awaits!",
+   "Please note that this is a self check-in property."
+  ],
+  "find": {
+   "kef": 46,
+   "bsi": 6,
+   "stop": "Airport Transfer Bus stop №9"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/46heima/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    2365,
+    1773
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Studios",
+    "sleeps": 5,
+    "sleepsMin": 2,
+    "beds": null,
+    "href": "https://46heima.heimaleiga.is/en",
+    "img": {
+     "base": "assets/img/46heima/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      600,
+      500
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/46heima/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/46heima/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/46heima/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/46heima/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/46heima/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/46heima/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/46heima/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/46heima/g7",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   }
+  ]
+ },
+ {
+  "id": "backyard",
+  "slug": "backyard-apartments",
+  "name": "Backyard Apartments",
+  "area": "downtown",
+  "areaName": [
+   "Downtown",
+   "Miðborgin"
+  ],
+  "lede": {
+   "en": "Studios behind Laugavegur 56.",
+   "is": "Stúdíóíbúðir á Laugavegi 56."
+  },
+  "source": "https://heimaleiga.is/backyardapartments/",
+  "email": "backyard@heimaleiga.is",
+  "phone": "+354 449 4912",
+  "address": "Laugavegur 56, 101 Reykjavík",
+  "host": "https://backyard.heimaleiga.is",
+  "intro": [],
+  "find": {
+   "kef": 49,
+   "bsi": 5,
+   "stop": "Airport Transfer Bus stop №9"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/backyard-apartments/hero",
+   "tone": "paper",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    1500,
+    1000
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Studio for 2",
+    "sleeps": 2,
+    "beds": "1 Double bed or 2 Single beds",
+    "href": "https://backyard.heimaleiga.is/properties/616d7776478464002e23d244",
+    "img": {
+     "base": "assets/img/backyard-apartments/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1500,
+      1000
+     ],
+     "tone": "paper"
+    }
+   },
+   {
+    "name": "Studio for 4",
+    "sleeps": 4,
+    "beds": "1 Double bed or 1 Sofa bed",
+    "href": "https://backyard.heimaleiga.is/properties/63739527bc915d0059a0c8cf",
+    "img": {
+     "base": "assets/img/backyard-apartments/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1050,
+      700
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/backyard-apartments/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/backyard-apartments/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/backyard-apartments/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1050,
+     700
+    ]
+   },
+   {
+    "base": "assets/img/backyard-apartments/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/backyard-apartments/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/backyard-apartments/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2100,
+     1400
+    ]
+   }
+  ]
+ },
+ {
+  "id": "saga",
+  "slug": "saga-studios",
+  "name": "Saga Studios",
+  "area": "downtown",
+  "areaName": [
+   "Downtown",
+   "Miðborgin"
+  ],
+  "lede": {
+   "en": "Ten studios in a four-storey house on Barónsstígur, many with balconies.",
+   "is": "Tíu stúdíóíbúðir í fjögurra hæða húsi við Barónsstíg, margar með svölum."
+  },
+  "source": "https://heimaleiga.is/sagastudios/",
+  "email": "heimaleiga@heimaleiga.is",
+  "phone": "+354 449 4913",
+  "address": "Barónsstígur 28, 101 Reykjavík",
+  "host": "https://saga.heimaleiga.is",
+  "intro": [
+   "Discover the ultimate urban retreat at Saga Studios, in the heart of downtown Reykjavik.",
+   "Perfect for couples seeking a romantic getaway, our four-story building boasts 10 stylish and comfortable studios, many with private balconies.",
+   "Each unit features elegant parquet floors, a well-equipped kitchenette with a fridge, stovetop, and kettle, a cozy dining area, a flat-screen TV, and a sleek private bathroom with a shower.",
+   "Our prime location places you just a 1-minute stroll from the bustling Laugavegur shopping street, a 7-minute walk from the iconic Hallgrímskirkja Church, and 17 minutes from the stunning Harpa Music Hall. Experience modern comfort and convenience, making Saga Studios your perfect home away from home in Reykjavik."
+  ],
+  "find": {
+   "kef": 47,
+   "bsi": 4,
+   "stop": "Airport Transfer Bus stop"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/saga-studios/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    2048,
+    1379
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Studio for 2",
+    "sleeps": 2,
+    "beds": "2 Single beds",
+    "href": "https://saga.heimaleiga.is/properties/61f41c92b6870c0034413631",
+    "img": {
+     "base": "assets/img/saga-studios/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      6000,
+      4000
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Studio Basement",
+    "sleeps": 2,
+    "beds": "2 Single beds",
+    "href": "https://saga.heimaleiga.is/properties/61f42a86b6870c003442594d",
+    "img": {
+     "base": "assets/img/saga-studios/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2048,
+      1365
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Studio for 4",
+    "sleeps": 4,
+    "beds": "1 Double bed or 1 Sofa bed",
+    "href": "https://saga.heimaleiga.is/properties/61fa62f58e12930031b3f41d",
+    "img": {
+     "base": "assets/img/saga-studios/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2048,
+      1365
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/saga-studios/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     512,
+     341
+    ]
+   },
+   {
+    "base": "assets/img/saga-studios/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     512,
+     341
+    ]
+   },
+   {
+    "base": "assets/img/saga-studios/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1424,
+     1000
+    ]
+   },
+   {
+    "base": "assets/img/saga-studios/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1500,
+     1000
+    ]
+   },
+   {
+    "base": "assets/img/saga-studios/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1500,
+     1000
+    ]
+   },
+   {
+    "base": "assets/img/saga-studios/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1500,
+     1000
+    ]
+   },
+   {
+    "base": "assets/img/saga-studios/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     6000,
+     4000
+    ]
+   },
+   {
+    "base": "assets/img/saga-studios/g7",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2048,
+     1365
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tyr",
+  "slug": "tyr-apartments",
+  "name": "TÝR Apartments",
+  "area": "downtown",
+  "areaName": [
+   "Downtown",
+   "Miðborgin"
+  ],
+  "lede": {
+   "en": "Apartments on Grettisgata with a view over the city.",
+   "is": "Íbúðir við Grettisgötu með útsýni yfir borgina."
+  },
+  "source": "https://heimaleiga.is/tyrapartments/",
+  "email": "heimaleiga@heimaleiga.is",
+  "phone": "+354 449 4908",
+  "address": "Grettisgata 62, 101 Reykjavík",
+  "host": "https://saga.heimaleiga.is",
+  "intro": [
+   "Týr Apartments is perfect for your explorations while in Iceland.",
+   "The apartments have a city view and you can enjoy the downtown area comfortably by foot. Only a few steps away is the popular shopping street Laugavegur and the beautiful Hallgrímskirkja Church is only 5 minutes walk away. The area has plenty of restaurants in all ranges but you’re also free to make a homemade meal with the fully equipped kitchen.",
+   "Please note that this is a self check-in property."
+  ],
+  "find": {
+   "kef": 44,
+   "bsi": 3,
+   "stop": "Airport Transfer Bus stop 9, Snorrabraut"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/tyr-apartments/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    2560,
+    1707
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Studio Apartment",
+    "sleeps": 4,
+    "beds": "1 Double bed and 1 Sofa bed",
+    "href": "https://tyr.heimaleiga.is/properties/60b3c6fec6c6be0031e8df5c",
+    "img": {
+     "base": "assets/img/tyr-apartments/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2784,
+      1856
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "1BR Apartment",
+    "sleeps": 4,
+    "beds": "1 Double bed and 1 Sofa bed",
+    "href": "https://tyr.heimaleiga.is/properties/5df362f030155a001f0de21e",
+    "img": {
+     "base": "assets/img/tyr-apartments/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "2BR Apartment",
+    "sleeps": 5,
+    "beds": "1 Double bed or 2 Single beds",
+    "href": "https://tyr.heimaleiga.is/properties/5df3604e3243380022f39cb8",
+    "img": {
+     "base": "assets/img/tyr-apartments/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1400,
+      933
+     ],
+     "tone": "paper"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/tyr-apartments/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2784,
+     1856
+    ]
+   },
+   {
+    "base": "assets/img/tyr-apartments/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2784,
+     1856
+    ]
+   },
+   {
+    "base": "assets/img/tyr-apartments/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2784,
+     1856
+    ]
+   },
+   {
+    "base": "assets/img/tyr-apartments/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2784,
+     1856
+    ]
+   },
+   {
+    "base": "assets/img/tyr-apartments/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1400,
+     933
+    ]
+   },
+   {
+    "base": "assets/img/tyr-apartments/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2784,
+     1856
+    ]
+   },
+   {
+    "base": "assets/img/tyr-apartments/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2784,
+     1856
+    ]
+   },
+   {
+    "base": "assets/img/tyr-apartments/g7",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1400,
+     933
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b2",
+  "slug": "b2-apartments",
+  "name": "B2 Apartments",
+  "area": "tun",
+  "areaName": [
+   "Tún and Holt",
+   "Tún og Holt"
+  ],
+  "lede": {
+   "en": "Fully renovated apartments at Brautarholt 2.",
+   "is": "Fullendurnýjaðar íbúðir í Brautarholti 2."
+  },
+  "source": "https://heimaleiga.is/b2apartments/",
+  "email": "b2@heimaleiga.is",
+  "phone": "+354 449 4903",
+  "address": "Brautarholt 2, 105 Reykjavík",
+  "host": "https://b2.heimaleiga.is",
+  "intro": [
+   "Discover the perfect getaway in Reykjavik with our modern B2 Apartments",
+   "Ideally situated near Hlemmur food hall & large bus station, and with a café next door. While staying in a more tranquil part of the city, the apartments offer easy access to the bustling main street, Laugavegur, ensuring you can enjoy the best of both worlds—peaceful relaxation and lively city life. Recently renovated, the apartment features a modern interior with stylish black and white decor, complemented by sleek wooden cabinets. Whether you’re exploring city life by foot or embarking on an Icelandic adventure by car, B2 provides the perfect home base.",
+   "Please note that this is a self check-in property."
+  ],
+  "find": {
+   "kef": 48,
+   "bsi": 6,
+   "stop": "Airport Transfer Bus stop №13"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/b2-apartments/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    1500,
+    1000
+   ]
+  },
+  "rooms": [
+   {
+    "name": "1 Bedroom Apartment",
+    "sleeps": 4,
+    "beds": "1 Double bed, 1 Sofa bed",
+    "href": "https://b2.heimaleiga.is/properties/665a3e2db0459e0011929883",
+    "img": {
+     "base": "assets/img/b2-apartments/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1500,
+      1000
+     ],
+     "tone": "paper"
+    }
+   },
+   {
+    "name": "2 Bedroom Apartment",
+    "sleeps": 6,
+    "beds": "2 Double beds, 1 Sofa bed",
+    "href": "https://b2.heimaleiga.is/properties/665a402a33d93c000fb3e72f",
+    "img": {
+     "base": "assets/img/b2-apartments/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1500,
+      1000
+     ],
+     "tone": "paper"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/b2-apartments/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/b2-apartments/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/b2-apartments/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/b2-apartments/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/b2-apartments/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/b2-apartments/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/b2-apartments/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   }
+  ]
+ },
+ {
+  "id": "frost",
+  "slug": "frost-apartments",
+  "name": "Frost Apartments",
+  "area": "tun",
+  "areaName": [
+   "Tún and Holt",
+   "Tún og Holt"
+  ],
+  "lede": {
+   "en": "Fully renovated apartments at Skipholt 21.",
+   "is": "Fullendurnýjaðar íbúðir í Skipholti 21."
+  },
+  "source": "https://heimaleiga.is/frostapartments/",
+  "email": "frost@heimaleiga.is",
+  "phone": "+354 449 4915",
+  "address": "Skipholt 21, 105 Reykjavík",
+  "host": "https://frost.heimaleiga.is",
+  "intro": [
+   "Frost Apartments offer a cozy retreat in central Reykjavik",
+   "Located in a more quiet part of downtown, yet close to Laugavegur’s shops and restaurants, our studio apartments accommodate 2-4 guests. Nearby attractions include Reykjavik Art Museum Kjarvalsstadir, the historical house “Höfði”, Hlemmur foodhall, a public park and a swimming pool. With essential services and public transport within easy reach, Frost Apartments ensure a convenient and enjoyable stay.",
+   "Please note that this is a self check-in property."
+  ],
+  "find": {
+   "kef": 51,
+   "bsi": 8,
+   "stop": "Airport Transfer Bus stop №13"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/frost-apartments/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    1500,
+    1000
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Standard Studio",
+    "sleeps": 2,
+    "beds": "1 Double bed",
+    "href": "https://frost.heimaleiga.is/properties/667db4a01ce4ee000edb638e",
+    "img": {
+     "base": "assets/img/frost-apartments/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2000,
+      1333
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Economy Studio",
+    "sleeps": 2,
+    "beds": "1 Double bed",
+    "href": "https://frost.heimaleiga.is/properties/667da828cf12a4001478a76e",
+    "img": {
+     "base": "assets/img/frost-apartments/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1500,
+      1000
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Superior Studio",
+    "sleeps": 2,
+    "beds": "Wheelchair accessible, 1 Double bed",
+    "href": "https://frost.heimaleiga.is/properties/667dcafccc53c900122e0144",
+    "img": {
+     "base": "assets/img/frost-apartments/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1465,
+      1000
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Family Studio",
+    "sleeps": 4,
+    "beds": "1 Double bed, 1 Bunk bed",
+    "href": "https://frost.heimaleiga.is/properties/667da828cf12a4001478a76e",
+    "img": {
+     "base": "assets/img/frost-apartments/r3",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/frost-apartments/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     700,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/frost-apartments/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     700,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/frost-apartments/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     700,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/frost-apartments/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     700,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/frost-apartments/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     700,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/frost-apartments/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     700,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/frost-apartments/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     700,
+     500
+    ]
+   }
+  ]
+ },
+ {
+  "id": "urban",
+  "slug": "urban-reykjavik-studios",
+  "name": "Urban Reykjavik Studios",
+  "area": "reykjavik",
+  "areaName": [
+   "Reykjavík",
+   "Reykjavík"
+  ],
+  "lede": {
+   "en": "Studios in a quiet corner of Reykjavík.",
+   "is": "Stúdíóíbúðir á rólegum stað í Reykjavík."
+  },
+  "source": "https://r13.heimaleiga.is/",
+  "email": null,
+  "phone": null,
+  "address": null,
+  "host": "https://r13.heimaleiga.is",
+  "intro": [
+   "Experience the perfect blend of comfort and serenity at Urban Reykjavik Studios, the latest addition to Heimaleiga. In a peaceful corner of Reykjavík, away from the bustle of the city."
+  ],
+  "find": {
+   "kef": null,
+   "bsi": null,
+   "stop": null
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/urban-reykjavik-studios/hero",
+   "tone": "paper",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    2000,
+    2667
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Economy Double Studio",
+    "sleeps": 2,
+    "beds": "Studio",
+    "href": "https://r13.heimaleiga.is/en/properties/6777e8f30bb407001135b0ff",
+    "img": {
+     "base": "assets/img/urban-reykjavik-studios/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2000,
+      2667
+     ],
+     "tone": "paper"
+    }
+   },
+   {
+    "name": "Top Floor Studio",
+    "sleeps": 2,
+    "beds": "Studio",
+    "href": "https://r13.heimaleiga.is/en/properties/6777ecd3125ad5000f12cd0f",
+    "img": {
+     "base": "assets/img/urban-reykjavik-studios/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2000,
+      1333
+     ],
+     "tone": "paper"
+    }
+   },
+   {
+    "name": "Triple studio with bunk bed",
+    "sleeps": 3,
+    "beds": "Studio",
+    "href": "https://r13.heimaleiga.is/en/properties/6777e5a212a43c00132688a9",
+    "img": {
+     "base": "assets/img/urban-reykjavik-studios/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2000,
+      3000
+     ],
+     "tone": "paper"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/urban-reykjavik-studios/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2000,
+     1333
+    ]
+   },
+   {
+    "base": "assets/img/urban-reykjavik-studios/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2000,
+     3000
+    ]
+   }
+  ]
+ },
+ {
+  "id": "comfort",
+  "slug": "iceland-comfort-apartments",
+  "name": "Iceland Comfort Apartments",
+  "area": "kopavogur",
+  "areaName": [
+   "Kópavogur",
+   "Kópavogur"
+  ],
+  "lede": {
+   "en": "Apartments at Hamraborg, the centre of Kópavogur.",
+   "is": "Íbúðir í Hamraborg, miðbæ Kópavogs."
+  },
+  "source": "https://heimaleiga.is/icelandcomfortapartments/",
+  "email": "info@icelandcomfortapartments.is",
+  "phone": "+354 449 4905",
+  "address": "Hamraborg 7, 200 Kópavogur",
+  "host": "https://ica.heimaleiga.is",
+  "intro": [
+   "Discover the diversity of studio apartments tailored to match your travel preferences at Iceland Comfort Apartments.",
+   "Located close to all necessities and only a 10 minute driving distance from downtown Reykjavik. Each apartment is equipped with a kitchenette, complimentary Wi-Fi, and on-site parking free of charge.",
+   "Please note that this is a self check-in property."
+  ],
+  "find": {
+   "kef": 50,
+   "bsi": 9,
+   "stop": "Airport Transfer Bus stop"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/iceland-comfort-apartments/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    2998,
+    2000
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Double studio with a view",
+    "sleeps": 2,
+    "beds": "Queen bed or 2 single beds",
+    "href": "https://ica.heimaleiga.is/properties/5ec6878d1d02fe0029f9eaa6",
+    "img": {
+     "base": "assets/img/iceland-comfort-apartments/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1708
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Economy Studio",
+    "sleeps": 2,
+    "beds": "Queen bed or 2 single beds",
+    "href": "https://ica.heimaleiga.is/properties/5ec6886eed23f6002d71b056?minOccupancy=1&#038;checkIn=2024-10-04&#038;checkOut=2024-10-06",
+    "img": {
+     "base": "assets/img/iceland-comfort-apartments/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2997,
+      2000
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Family studio with a view",
+    "sleeps": 2,
+    "beds": "2 single beds and Sofa bed",
+    "href": "https://ica.heimaleiga.is/properties/5ec687ba1d02fe0029f9f0b4",
+    "img": {
+     "base": "assets/img/iceland-comfort-apartments/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1708
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Triple studio",
+    "sleeps": 3,
+    "beds": "2 single beds, Sofa bed",
+    "href": "https://ica.heimaleiga.is/properties/5ec687e7bf269f002f7ee93b",
+    "img": {
+     "base": "assets/img/iceland-comfort-apartments/r3",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1709
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Studio for 5",
+    "sleeps": 5,
+    "beds": "5 Single beds",
+    "href": "https://ica.heimaleiga.is/properties/5ec688309c75fd002de5a2dc",
+    "img": {
+     "base": "assets/img/iceland-comfort-apartments/r4",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1705
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/iceland-comfort-apartments/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     900,
+     600
+    ]
+   },
+   {
+    "base": "assets/img/iceland-comfort-apartments/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2998,
+     2000
+    ]
+   },
+   {
+    "base": "assets/img/iceland-comfort-apartments/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2997,
+     2000
+    ]
+   },
+   {
+    "base": "assets/img/iceland-comfort-apartments/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     3000,
+     2000
+    ]
+   },
+   {
+    "base": "assets/img/iceland-comfort-apartments/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     3000,
+     2000
+    ]
+   },
+   {
+    "base": "assets/img/iceland-comfort-apartments/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     3000,
+     2000
+    ]
+   },
+   {
+    "base": "assets/img/iceland-comfort-apartments/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     3000,
+     2000
+    ]
+   },
+   {
+    "base": "assets/img/iceland-comfort-apartments/g7",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     2999,
+     2000
+    ]
+   }
+  ]
+ },
+ {
+  "id": "aurora",
+  "slug": "aurora-nooks",
+  "name": "Aurora Nooks",
+  "area": "kopavogur",
+  "areaName": [
+   "Kópavogur",
+   "Kópavogur"
+  ],
+  "lede": {
+   "en": "A new building in Kópavogur with its own underground parking.",
+   "is": "Nýtt hús í Kópavogi með eigin bílakjallara."
+  },
+  "source": "https://heimaleiga.is/auroranooks/",
+  "email": "auroranooks@heimaleiga.is",
+  "phone": "+354 449 4916",
+  "address": "Dalbrekka 4-6, 200 Kópavogur",
+  "host": "https://auroranooks.heimaleiga.is",
+  "intro": [
+   "Discover the perfect place to unwind and explore Reykjavík at Aurora Nooks by Heimaleiga.",
+   "Located in a peaceful area just minutes from the city’s iconic landmarks, our modern apartments offer a comfortable and stylish retreat for every traveler.",
+   "Each apartment is designed with comfort and convenience in mind."
+  ],
+  "find": {
+   "kef": 40,
+   "bsi": 9,
+   "stop": "Airport Transfer Bus stop"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/aurora-nooks/hero",
+   "tone": "paper",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    2101,
+    1400
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Superior studio for 4",
+    "sleeps": 4,
+    "beds": "1 Double bed, 1 Sofa bed",
+    "href": "https://auroranooks.heimaleiga.is/en/properties/6749dc280be90c001150a1a6",
+    "img": {
+     "base": "assets/img/aurora-nooks/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1050,
+      700
+     ],
+     "tone": "paper"
+    }
+   },
+   {
+    "name": "Superior Studio for 2",
+    "sleeps": 2,
+    "beds": "1 Double bed",
+    "href": "https://auroranooks.heimaleiga.is/en/properties/6749d848261ac700132640f1",
+    "img": {
+     "base": "assets/img/aurora-nooks/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1050,
+      700
+     ],
+     "tone": "paper"
+    }
+   },
+   {
+    "name": "Corner Family Suite",
+    "sleeps": 5,
+    "beds": "1 Double bed, 1 Single bed, 1 Sofa bed",
+    "href": "https://auroranooks.heimaleiga.is/en/properties/67506bc76c208d00111f6502",
+    "img": {
+     "base": "assets/img/aurora-nooks/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1050,
+      700
+     ],
+     "tone": "paper"
+    }
+   },
+   {
+    "name": "Economy Studio",
+    "sleeps": 2,
+    "beds": "1 Double bed",
+    "href": "https://auroranooks.heimaleiga.is/en/properties/67506cd1c5b14900127c2814",
+    "img": {
+     "base": "assets/img/aurora-nooks/r3",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1050,
+      700
+     ],
+     "tone": "paper"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/aurora-nooks/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/aurora-nooks/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/aurora-nooks/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/aurora-nooks/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/aurora-nooks/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/aurora-nooks/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/aurora-nooks/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   },
+   {
+    "base": "assets/img/aurora-nooks/g7",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     600,
+     500
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ia",
+  "slug": "icelandic-apartments",
+  "name": "Icelandic Apartments",
+  "area": "kopavogur",
+  "areaName": [
+   "Kópavogur",
+   "Kópavogur"
+  ],
+  "lede": {
+   "en": "Apartments at Urðarhvarf with free parking.",
+   "is": "Íbúðir við Urðarhvarf með fríum bílastæðum."
+  },
+  "source": "https://heimaleiga.is/icelandicapartments/",
+  "email": "heimaleiga@heimaleiga.is",
+  "phone": "+354 449 4905",
+  "address": "Urðarhvarf 4, 203 Kópavogur",
+  "host": "https://icelandic.heimaleiga.is",
+  "intro": [
+   "Situated in Kópavogur, a mere 20-minute drive from downtown Reykjavik, Icelandic Apartments presents guests with a haven of comfort.",
+   "Our accommodations feature well-appointed apartments offering complimentary Wi-Fi, inviting living spaces, and fully equipped kitchens. Each room comes complete with a flat-screen TV and a private bathroom featuring a shower. Certain apartments afford stunning vistas, overlooking the serene Lake Ellidavatn and the majestic Blue Mountains (Bláfjöll). Who knows if you’ll see some aurora over the peaks of Bláfjöll while staying with us.",
+   "Please note that this is a self check-in property."
+  ],
+  "find": {
+   "kef": 47,
+   "bsi": 20,
+   "stop": "Public Bus stop - bus nr 2"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/icelandic-apartments/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    4199,
+    2800
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Economy Studio",
+    "sleeps": 3,
+    "beds": "Queen bed or 2 single beds",
+    "href": "https://icelandic.heimaleiga.is/properties/63db82f5c82fb4002cc6a4e2",
+    "img": {
+     "base": "assets/img/icelandic-apartments/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Standard studio with view",
+    "sleeps": 4,
+    "beds": "Double bed and sofa bed, Stunning views",
+    "href": "https://icelandic.heimaleiga.is/properties/63db8a9cf9711a002c6aefc4",
+    "img": {
+     "base": "assets/img/icelandic-apartments/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      4200,
+      2800
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Standard studio",
+    "sleeps": 4,
+    "beds": "Double bed and sofa bed",
+    "href": "https://icelandic.heimaleiga.is/properties/63db8ac771771b002ce2eca4",
+    "img": {
+     "base": "assets/img/icelandic-apartments/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Superior Studio",
+    "sleeps": 4,
+    "beds": "Double bed and sofa bed, Stunning views",
+    "href": "https://icelandic.heimaleiga.is/properties/63db8d2c30de000036a7ea63",
+    "img": {
+     "base": "assets/img/icelandic-apartments/r3",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/icelandic-apartments/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/icelandic-apartments/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/icelandic-apartments/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/icelandic-apartments/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4199,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/icelandic-apartments/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4203,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/icelandic-apartments/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4194,
+     2800
+    ]
+   },
+   {
+    "base": "assets/img/icelandic-apartments/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4200,
+     2800
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bluemountain",
+  "slug": "blue-mountain-apartments",
+  "name": "Blue Mountain Apartments",
+  "area": "kopavogur",
+  "areaName": [
+   "Kópavogur",
+   "Kópavogur"
+  ],
+  "lede": {
+   "en": "Apartments at Urðarhvarf with a mountain view and free parking.",
+   "is": "Íbúðir við Urðarhvarf með fjallasýn og fríum bílastæðum."
+  },
+  "source": "https://heimaleiga.is/bluemountain/",
+  "email": "bma@heimaleiga.is",
+  "phone": "+354 449 4901",
+  "address": "Urðarhvarf 2, 203 Kópavogur",
+  "host": "https://bluemountain.heimaleiga.is",
+  "intro": [
+   "Blue Mountain Apartments provides modern self check-in accommodation close to Reykjavik",
+   "Settle into our stylish self check-in lodgings, featuring a kitchenette, complimentary high-speed Wi-Fi and free on-site parking.",
+   "Some of the apartments boast a magnificent lake and mountain view.",
+   "Please note that this is a self check-in property."
+  ],
+  "find": {
+   "kef": 43,
+   "bsi": 16,
+   "stop": "Public Bus stop - Ögurhvarf"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/blue-mountain-apartments/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    1404,
+    936
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Corner Studio with View Studio",
+    "sleeps": 4,
+    "beds": "Double or twin beds and a sleeping sofa",
+    "href": "https://bluemountain.heimaleiga.is/properties/5fabdc808b3f26003246be9f",
+    "img": {
+     "base": "assets/img/blue-mountain-apartments/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1404,
+      936
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Economy Studio",
+    "sleeps": 4,
+    "beds": "Double or twin beds and a sofa",
+    "href": "https://bluemountain.heimaleiga.is/properties/5facf065e162ff002ee844f3",
+    "img": {
+     "base": "assets/img/blue-mountain-apartments/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1404,
+      936
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Family Studio",
+    "sleeps": 4,
+    "beds": "Double or twin beds and a sofa",
+    "href": "https://bluemountain.heimaleiga.is/properties/5fac29b08b3f2600324910da",
+    "img": {
+     "base": "assets/img/blue-mountain-apartments/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      1404,
+      936
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/blue-mountain-apartments/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1404,
+     936
+    ]
+   },
+   {
+    "base": "assets/img/blue-mountain-apartments/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1404,
+     936
+    ]
+   },
+   {
+    "base": "assets/img/blue-mountain-apartments/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1404,
+     936
+    ]
+   },
+   {
+    "base": "assets/img/blue-mountain-apartments/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1404,
+     936
+    ]
+   },
+   {
+    "base": "assets/img/blue-mountain-apartments/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1404,
+     936
+    ]
+   },
+   {
+    "base": "assets/img/blue-mountain-apartments/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1404,
+     936
+    ]
+   },
+   {
+    "base": "assets/img/blue-mountain-apartments/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1404,
+     936
+    ]
+   },
+   {
+    "base": "assets/img/blue-mountain-apartments/g7",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     1404,
+     936
+    ]
+   }
+  ]
+ },
+ {
+  "id": "amtmann",
+  "slug": "amtmann-residence",
+  "name": "Amtmann Residence",
+  "area": "selfoss",
+  "areaName": [
+   "Selfoss",
+   "Selfoss"
+  ],
+  "lede": {
+   "en": "In Selfoss, a gateway to the South Coast and the Golden Circle.",
+   "is": "Á Selfossi, við hlið Suðurlands og Gullna hringsins."
+  },
+  "source": "https://heimaleiga.is/amtmann-residence/",
+  "email": "amtmann@heimaleiga.is",
+  "phone": "+354 4494919",
+  "address": "Eyravegur 3, 800 Selfoss",
+  "host": "https://icelandic.heimaleiga.is",
+  "intro": [
+   "Situated in the heart of Selfoss, a gateway to Iceland's South Coast and the Golden Circle, Amtmann Residence offers guests a spacious and sophisticated base for exploring the region.",
+   "Our residence offers a range of apartments – from two-bedroom units to spacious penthouses – perfectly designed for couples, families, or groups. Each apartment features a bright and inviting living area, a fully equipped kitchen, and well-appointed bathrooms for your comfort. Every stay includes high-speed wireless internet, making it easy to stay connected during your travels. From here, you’re within easy reach of world-famous waterfalls and natural wonders along the Ring Road, as well as peaceful riverside walks right outside your door.",
+   "Please note that this is a self check-in property."
+  ],
+  "find": {
+   "kef": 80,
+   "bsi": 45,
+   "stop": "Public Bus stop - Selfoss – Ráðhúsið"
+  },
+  "nearby": [],
+  "hero": {
+   "base": "assets/img/amtmann-residence/hero",
+   "tone": "ink",
+   "w": [
+    2000,
+    1200,
+    700
+   ],
+   "size": [
+    4690,
+    3129
+   ]
+  },
+  "rooms": [
+   {
+    "name": "Two Bedroom Apartment",
+    "sleeps": 6,
+    "beds": "2 x Queen beds and a sofa bed",
+    "href": "https://amtmann.guestybookings.com/en/properties/6a1d7fcfddc5e7001490e997",
+    "img": {
+     "base": "assets/img/amtmann-residence/r0",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1717
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Three Bedroom Apartment",
+    "sleeps": 8,
+    "beds": "3 x Queen beds and a sofa bed, Stunning views",
+    "href": "https://amtmann.guestybookings.com/en/properties/6a1d800848f65900137b2f9c",
+    "img": {
+     "base": "assets/img/amtmann-residence/r1",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      4697,
+      3132
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "Four Bedroom Apartment",
+    "sleeps": 10,
+    "beds": "4 x Queen beds and a sofa bed",
+    "href": "https://amtmann.guestybookings.com/en/properties/6a1d80c5f90c84000f1545b7",
+    "img": {
+     "base": "assets/img/amtmann-residence/r2",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1707
+     ],
+     "tone": "ink"
+    }
+   },
+   {
+    "name": "3 and 4 Bedroom Penthouse Apartment",
+    "sleeps": 6,
+    "beds": "Queen size beds and a sofa bed, Stunning views",
+    "href": "https://amtmann.guestybookings.com/en/properties",
+    "img": {
+     "base": "assets/img/amtmann-residence/r3",
+     "w": [
+      1200,
+      700
+     ],
+     "size": [
+      2560,
+      1713
+     ],
+     "tone": "ink"
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "base": "assets/img/amtmann-residence/g0",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4690,
+     3129
+    ]
+   },
+   {
+    "base": "assets/img/amtmann-residence/g1",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4680,
+     3120
+    ]
+   },
+   {
+    "base": "assets/img/amtmann-residence/g2",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4680,
+     3120
+    ]
+   },
+   {
+    "base": "assets/img/amtmann-residence/g3",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4680,
+     3120
+    ]
+   },
+   {
+    "base": "assets/img/amtmann-residence/g4",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4680,
+     3120
+    ]
+   },
+   {
+    "base": "assets/img/amtmann-residence/g5",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4587,
+     3081
+    ]
+   },
+   {
+    "base": "assets/img/amtmann-residence/g6",
+    "w": [
+     1200,
+     700
+    ],
+    "size": [
+     4582,
+     3065
+    ]
+   }
+  ]
+ }
+]
